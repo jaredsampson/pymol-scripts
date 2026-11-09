@@ -1,3 +1,4 @@
+run /path/to/gridbox.py
 # Copyright (c) 2014 Chen Zhaoqiang DDDC SIMM
 #qq 744891290 qqgroup 144539789
 # A PyMOL script for drawing a CGO box by the coordinate of the center,and the size of box
